@@ -1,0 +1,1 @@
+g++ -Wall Kunde.cpp Datenbank.cpp Hauptprogramm.cpp -o kundendatenbank -std=c++14
